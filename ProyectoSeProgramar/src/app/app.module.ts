@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './components/header/header.component';
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
+import { SocialesComponent } from './components/sociales/sociales.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    LogoAPComponent
+    LogoAPComponent,
+    SocialesComponent
   ],
   imports: [
     BrowserModule,
