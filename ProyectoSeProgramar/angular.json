@@ -24,10 +24,12 @@
             ],
             "styles": [
               "src/styles.css",
-              "ProyectoSeProgramar/node_modules/bootstrap/dist/css/bootstrap.css"
+              "ProyectoSeProgramar/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "ProyectoSeProgramar/node_modules/bootstrap/dist/js/bootstrap.js"
+              "ProyectoSeProgramar/node_modules/jquery/dist/jquery.slim.min.js",
+              "ProyectoSeProgramar/node_modules/popper.js/dist/popper.min.js",
+              "ProyectoSeProgramar/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
